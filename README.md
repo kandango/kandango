@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil💙
 
-<!--
-**kandango/kandango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luiz Carlos Martins
 
-Here are some ideas to get you started:
+- Sou estudadnte na plataforma Alura
+- estou me desenvolvendo em linguagens de programação como Javascript, Scratch, HTML
+- Estou utlizando esse espaço para organização de meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Para entrar em contato comigo📧
+
+lcmartins48@gmail.com
+
+
+
+![image](https://github.com/user-attachments/assets/cb7978a6-c5fe-433d-aae6-d3b7a309352e)
